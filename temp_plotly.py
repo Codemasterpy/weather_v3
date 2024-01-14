@@ -1,4 +1,4 @@
-
+import numpy
 import plotly as py
 import plotly.graph_objs as go
 import ipywidgets as widgets
